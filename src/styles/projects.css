@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    width:22rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 3px;
+    margin-top: 10px;
+}
+.card h4{
+    font-weight: bold;
+}
+.card a{
+    border: 1px solid black;
+    padding: 2px;
+}
+
+ .profile {
+    width: 28rem;
+    height: 20rem;
+}
