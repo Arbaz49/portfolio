@@ -21,9 +21,9 @@ const About = () => {
         {/* <!-- right --> */}
         <div className="my-auto flex flex-col gap-3" style={{width:"59%"}}>
           <h1 className="text-indigo-600 font-bold">ABOUT ME</h1>
-          <h1 className="text-3xl font-medium dark:text-white">Better Design</h1>
+          <h1 className="text-3xl font-medium dark:text-white"></h1>
           <h1 className="text-3xl font-medium dark:text-white">
-            Better Experience
+        
           </h1>
           <p className="text-gray-400">
             Hey!!! My name is Arbaz Solkar And I am From Mumbai,India
