@@ -31,7 +31,7 @@ const About = () => {
              I'm passionate about learning new technologies and building projects. Right now I'm learning Full Stack Web Development at Digikull, Pune, Maharashtra. I love to learn and explore new web technologies. My interests and hobbies revolves around Coding, Cricket,learning new things.
           </p>
         </div>
-        
+
       </div>
     </div>
   )
