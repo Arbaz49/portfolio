@@ -71,7 +71,7 @@ const Contact = () => {
           </button>
         
         </form>
-        <div style={{ display: "flex",width:"500px",justifyContent:"space-evenly",margin:"auto" }}>
+        <div style={{ display: "flex",width:"70vw",justifyContent:"space-evenly",margin:"auto" }}>
           <a href="https://www.linkedin.com/in/arbaz-solkar-819b961b5/" style={styles}>
             <FaLinkedinIn />
           </a>
