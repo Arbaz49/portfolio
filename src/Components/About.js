@@ -28,7 +28,7 @@ const About = () => {
           <p className="text-gray-400">
             Hey!!! My name is Arbaz Solkar And I am From Mumbai,India
             
-             I'm passionate about learning new technologies and building projects. Right now I'm learning Full Stack Web Development at Masai School, Bengaluru, Karnataka. I love to learn and explore new web technologies. My interests and hobbies revolves around Coding, Singing and Photography.
+             I'm passionate about learning new technologies and building projects. Right now I'm learning Full Stack Web Development at Digikull, Pune, Maharashtra. I love to learn and explore new web technologies. My interests and hobbies revolves around Coding, Singing and Photography.
           </p>
         </div>
         
