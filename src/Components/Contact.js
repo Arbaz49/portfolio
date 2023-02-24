@@ -79,7 +79,7 @@ const Contact = () => {
             <FaGithub />
           </a>
           <a style={{ background:"black",borderRadius:"50%" }}
-            href={`mailto:arbaz24.3.20@gmail.comm`}
+            href={`mailto:arbaz24.3.20@gmail.com`}
             class=" text-white font-small px-3 py-2 rounded-md cursor-pointer"
           >
             Email
