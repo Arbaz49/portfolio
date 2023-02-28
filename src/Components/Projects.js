@@ -3,6 +3,8 @@ import youtube from "../assets/youtube.png";
 import resume from "../assets/ResumeBuilder.png";
 import news_app from "../assets/news app.png";
 import sortingVisualizer from "../assets/sortingVisualizer.png";
+import weatherImg from "../assets/weatherImg.png";
+
 import thaliOrdering from "../assets/thaliOrdering.png";
 import "../styles/projects.css";
 import Skills from "./Skills.js"
@@ -55,6 +57,13 @@ const Projects = () => {
           <h4 className="mx-5">King-Thali</h4>
           <p>Technologies Used: - React - Redux Toolkit - react-router-dom - Bootstrap - react-bootstrap</p>
           <a href="https://stalwart-licorice-e20043.netlify.app/" target={"_blank"} rel="noreferrer">view</a>
+        </div>
+
+        <div className="card">
+          <img src={weatherImg}alt="ba" />
+          <h4 className="mx-5">King-Thali</h4>
+          <p>Technologies Used: Html-Css-Javascrip-Bootstrap - React js</p>
+          <a href="https://weather-app-jade-kappa.vercel.app/" target={"_blank"} rel="noreferrer">view</a>
         </div>
 
      
