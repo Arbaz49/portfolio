@@ -61,7 +61,7 @@ const Projects = () => {
 
         <div className="card">
           <img src={weatherImg}alt="ba" />
-          <h4 className="mx-5">King-Thali</h4>
+          <h4 className="mx-5">Weather Application</h4>
           <p>Technologies Used: Html-Css-Javascrip-Bootstrap - React js</p>
           <a href="https://weather-app-jade-kappa.vercel.app/" target={"_blank"} rel="noreferrer">view</a>
         </div>
