@@ -4,6 +4,7 @@ import resume from "../assets/ResumeBuilder.png";
 import news_app from "../assets/news app.png";
 import sortingVisualizer from "../assets/sortingVisualizer.png";
 import weatherImg from "../assets/weatherImg.png";
+import inventory from "../assets/inventory.png";
 
 import thaliOrdering from "../assets/thaliOrdering.png";
 import "../styles/projects.css";
@@ -20,6 +21,13 @@ const Projects = () => {
         </p>
       </div>
       <div className="p-3 m-3 sm:p-0 flex flex-wrap justify-around ">
+      <div className="card">
+          <img src={inventory} alt="ba" />
+          <h4 className="mx-5">Youtube Clone</h4>
+          <p>Technologies Used: - React - Redux Toolkit - react-router-dom - Bootstrap - react-bootstrap</p>
+          <a href="https://inventory-frontend-flame.vercel.app/login" target={"_blank"} rel="noreferrer">view</a>
+          
+        </div>
 
         <div className="card">
           <img src={youtube} alt="ba" />
