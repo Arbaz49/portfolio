@@ -24,7 +24,7 @@ const Projects = () => {
       <div className="card">
           <img src={inventory} alt="ba" />
           <h4 className="mx-5">Inventory Management System</h4>
-          <p>Technologies Used: - React - Redux Toolkit - react-router-dom - Bootstrap - Material-UI-Node.js- Express.js - MongoDB</p>
+          <p>Technologies Used: - React - Redux Toolkit - react-router-dom - Bootstrap - Material-UI-Node.js- Express.js - MongoDB-RazorPay (for payment options-test Mode)</p>
           <a href="https://inventory-frontend-flame.vercel.app/login" target={"_blank"} rel="noreferrer">view</a>
           
         </div>
