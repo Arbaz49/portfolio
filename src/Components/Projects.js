@@ -32,7 +32,7 @@ const Projects = () => {
         <div className="card">
           <img src={"https://camo.githubusercontent.com/7a6c8bcb2dd9454368d291963ae8506126e762a854b2878f0115db14f5194181/68747470733a2f2f692e6962622e636f2f37575a524c44312f3132322e6a7067"} alt="ba" />
           <h4 className="mx-5">Video Chat App</h4>
-          <p>Technologies Used: - React - Redux Toolkit - Bootstrap - Material-UI-Node.js- Express.js - Socket.io</p>
+          <p>Technologies Used: - React - Bootstrap - Material-UI-Node.js- Express.js - Socket.io</p>
           <a href="https://video-chat-app-front-end.vercel.app/" target={"_blank"} rel="noreferrer">view</a>
           
         </div>
